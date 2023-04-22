@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .venv/
 practice/input.txt
+data/spice_char/ltspice_examples/
