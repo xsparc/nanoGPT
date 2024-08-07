@@ -6,4 +6,4 @@
     pip install transformers datasets tiktoken wandb tqdm
 
 ## Command
-    python train_circuit_gen.py
+    python circuit_gen_train.py
